@@ -85,29 +85,24 @@ You can able to add HTTP Header Manager/cookie Manager/cache Manager (If you hav
 
 # Advantages of JMeter
 
-•	Easy to use without extensive knowledge of programming.
-•	Provides integration with Jenkins and reporting.
-•	Easy installation on any operating system.
-•	Key features like the Thread Group, helps to see whether software performance is good.
-•	Test IDE allows test recording from browsers or native applications
-
-•	Creates a request and sends the request to the server
-•	Collects responses from the server and visualizes the details in a chart or graph
-•	Processes the response from the server
-•	Generates test results in several formats such as text, XML, JSON for the tester to analyze data
-•	Test IDE allows test recording from browsers or native applications
-•	Allows API testing, Database Testing, and MQ testing with ease
-•	When there’s a high number of TPS, one can achieve more transactions per second given the hyper-limitations.
+1.	Easy to use without extensive knowledge of programming.
+2.	Provides integration with Jenkins and reporting.
+3.	Easy installation on any operating system.
+4.	Key features like the Thread Group, helps to see whether software performance is good.
+5.	Test IDE allows test recording from browsers or native applications
+6.	Creates a request and sends the request to the server
+7.	Collects responses from the server and visualizes the details in a chart or graph
+8.	Processes the response from the server
+9.	Generates test results in several formats such as text, XML, JSON for the tester to analyze data
+10.	Test IDE allows test recording from browsers or native applications
+11.	Allows API testing, Database Testing, and MQ testing with ease
+12.	When there’s a high number of TPS, one can achieve more transactions per second given the hyper-limitations.
 
 
 # Disadvantages of JMeter
 
-•	Automation is difficult with JMeter
-•	JMeter output reports are difficult to understand without training
-•	It doesn’t support JavaScript and AJAX requests.
-•	Complex applications that use dynamic content or use JS to alter requests can be difficult to test using JMeter.
-•	It’s difficult to get data from one place or to perform customizations.
-
-
-
-
+1.	Automation is difficult with JMeter
+2.	JMeter output reports are difficult to understand without training
+3.	It doesn’t support JavaScript and AJAX requests.
+4.	Complex applications that use dynamic content or use JS to alter requests can be difficult to test using JMeter.
+5.	It’s difficult to get data from one place or to perform customizations.
