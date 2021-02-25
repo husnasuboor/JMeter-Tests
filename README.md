@@ -1,28 +1,5 @@
 # JMeter-Tests
 
-JMeter advantages
-
-Easy to use without extensive knowledge of programming. ...
-Provides integration with Jenkins and reporting.
-Easy installation on any operating system.
-Key features like the Thread Group, helps to see whether software performance is good.
-Test IDE allows test recording from browsers or native applications
-
-Creates a request and sends the request to the server
-Collects responses from the server and visualizes the details in a chart or graph
-Processes the response from the server
-Generates test results in several formats such as text, XML, JSON for the tester to analyze data
-Test IDE allows test recording from browsers or native applications
-Allows API testing, Database Testing, and MQ testing with ease
-When there’s a high number of TPS, one can achieve more transactions per second given the hyper-limitations.
-
-Disadvantages of JMeter
-
-Automation is difficult with JMeter
-JMeter output reports are difficult to understand without training
-It doesn’t support JavaScript and AJAX requests.
-Complex applications that use dynamic content or use JS to alter requests can be difficult to test using JMeter.
-It’s difficult to get data from one place or to perform customizations.
 
 JMetre Notes to prepare different type of test cycles
 
@@ -93,6 +70,31 @@ POST
 4. Don’t add parameters
 5. Add authorisation or content type if you want using HTTP manager/auth…
 6. Save, Run and validate
+
+
+Advantages of JMeter
+
+Easy to use without extensive knowledge of programming. ...
+Provides integration with Jenkins and reporting.
+Easy installation on any operating system.
+Key features like the Thread Group, helps to see whether software performance is good.
+Test IDE allows test recording from browsers or native applications
+
+Creates a request and sends the request to the server
+Collects responses from the server and visualizes the details in a chart or graph
+Processes the response from the server
+Generates test results in several formats such as text, XML, JSON for the tester to analyze data
+Test IDE allows test recording from browsers or native applications
+Allows API testing, Database Testing, and MQ testing with ease
+When there’s a high number of TPS, one can achieve more transactions per second given the hyper-limitations.
+
+Disadvantages of JMeter
+
+Automation is difficult with JMeter
+JMeter output reports are difficult to understand without training
+It doesn’t support JavaScript and AJAX requests.
+Complex applications that use dynamic content or use JS to alter requests can be difficult to test using JMeter.
+It’s difficult to get data from one place or to perform customizations.
 
 
 
