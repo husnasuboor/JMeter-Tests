@@ -1,17 +1,17 @@
 
 # Used tools to create JMeter test cases
-JMeter tool
-Blazemeter chrome extension for UI recorded scripts in JMeter-JMX file format
-Data.CSV file (Dummy)
+1. JMeter tool
+2. Blazemeter chrome extension for UI recorded scripts in JMeter-JMX file format
+3. Data.CSV file (Dummy)
 
 # Steps to run JMeter-tests:
 Import the tests on to JMeter and execute the tests 
 Able to increase Number of threads(users), Rampup time period and Loop count (According to your need)
 
 # Steps to run CSV config test
-Import CSVDataConfigTest.jmx file
-Browse dowloaded Data.csv file to CSV Data Config
-Save, Run and validate
+1. Import CSVDataConfigTest.jmx file
+2. Browse dowloaded Data.csv file to CSV Data Config
+3. Save, Run and validate
 
 
 
@@ -85,27 +85,29 @@ You can able to add HTTP Header Manager/cookie Manager/cache Manager (If you hav
 
 # Advantages of JMeter
 
-Easy to use without extensive knowledge of programming.
-Provides integration with Jenkins and reporting.
-Easy installation on any operating system.
-Key features like the Thread Group, helps to see whether software performance is good.
-Test IDE allows test recording from browsers or native applications
+•	Easy to use without extensive knowledge of programming.
+•	Provides integration with Jenkins and reporting.
+•	Easy installation on any operating system.
+•	Key features like the Thread Group, helps to see whether software performance is good.
+•	Test IDE allows test recording from browsers or native applications
 
-Creates a request and sends the request to the server
-Collects responses from the server and visualizes the details in a chart or graph
-Processes the response from the server
-Generates test results in several formats such as text, XML, JSON for the tester to analyze data
-Test IDE allows test recording from browsers or native applications
-Allows API testing, Database Testing, and MQ testing with ease
-When there’s a high number of TPS, one can achieve more transactions per second given the hyper-limitations.
+•	Creates a request and sends the request to the server
+•	Collects responses from the server and visualizes the details in a chart or graph
+•	Processes the response from the server
+•	Generates test results in several formats such as text, XML, JSON for the tester to analyze data
+•	Test IDE allows test recording from browsers or native applications
+•	Allows API testing, Database Testing, and MQ testing with ease
+•	When there’s a high number of TPS, one can achieve more transactions per second given the hyper-limitations.
+
 
 # Disadvantages of JMeter
 
-Automation is difficult with JMeter
-JMeter output reports are difficult to understand without training
-It doesn’t support JavaScript and AJAX requests.
-Complex applications that use dynamic content or use JS to alter requests can be difficult to test using JMeter.
-It’s difficult to get data from one place or to perform customizations.
+•	Automation is difficult with JMeter
+•	JMeter output reports are difficult to understand without training
+•	It doesn’t support JavaScript and AJAX requests.
+•	Complex applications that use dynamic content or use JS to alter requests can be difficult to test using JMeter.
+•	It’s difficult to get data from one place or to perform customizations.
+
 
 
 
